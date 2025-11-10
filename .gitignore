@@ -38,9 +38,8 @@ venv.bak/
 *~
 .DS_Store
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+
+
 
 # Data files (optional - uncomment if you don't want to track data)
 # *.csv
