@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - smaoyabi@gmail.com
 
 Project Link: [https://github.com/yourusername/zomato-restaurant-analysis](https://github.com/yourusername/zomato-restaurant-analysis)
 
