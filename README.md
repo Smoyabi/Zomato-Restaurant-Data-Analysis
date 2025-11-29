@@ -220,9 +220,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - smaoyabi@gmail.com
+Name - Sammi Oyabi ~ smaoyabi@gmail.com
 
-Project Link: [https://github.com/yourusername/zomato-restaurant-analysis](https://github.com/yourusername/zomato-restaurant-analysis)
+Project Link: [https://github.com/Smoyabi/zomato-restaurant-analysis](https://github.com/Smoyabi/zomato-restaurant-analysis)
 
 ## 🙏 Acknowledgments
 
